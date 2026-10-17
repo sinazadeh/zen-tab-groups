@@ -8,6 +8,33 @@ published as a GitHub release with its notes below (see
 
 ## [Unreleased]
 
+### Added
+
+- More ways to style sections
+  ([oom333/zen-tab-groups#2](https://github.com/oom333/zen-tab-groups/issues/2)),
+  on the settings page (now in **Appearance** and **Behavior** cards) and
+  in Sine's options:
+  - **Indent tabs:** a section's tabs are indented like a folder's.
+  - **Line along tabs:** a line in the section's color down the side of
+    its tabs.
+  - **Background:** a light shade of the section's color behind its
+    header, its tabs, or both.
+  - **Line in headers** can be switched off.
+  - **Tab count:** when folded (as before), always, or never; and the
+    **Collapse arrow** can be hidden (clicking the header still folds it).
+- **Group from:** a section only forms once that many of its tabs (1 to 5) are open in a space; with fewer, they stay where they are.
+- Sections can be kept to some spaces: pick them with the new spaces button
+  on the settings page, or right-click a header → **Only in this space**
+  (and **Show in all spaces**). In other spaces their tabs aren't grouped.
+- **Header button:** **Clear** (closes the tabs, as before), **Unload**
+  (keeps them and unloads their pages, like a folder's button) or **None**.
+  Headers' right-click menu also gets **Unload all tabs in this section**.
+
+### Fixed
+
+- A tab that's pinned, or moved into a folder or a split view, no longer
+  keeps its section's marks: one from a folded section stayed hidden.
+
 ### Changed
 
 - Every version has a GitHub release with its notes and a zip of
