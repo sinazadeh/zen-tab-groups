@@ -32,7 +32,7 @@ Keeps your busiest sites at the top of Zen's sidebar. Tabs from YouTube, Reddit 
 ### Manually (fx-autoconfig)
 
 1. Set up [fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) in Zen.
-2. Copy `tab-groups.uc.js` **and** the `tab-groups` folder into your profile's `chrome/JS/` folder. Find your profile folder in `about:support` → **Profile Folder**.
+2. Download the zip from the [latest release](https://github.com/sinazadeh/zen-tab-groups/releases/latest) and copy `tab-groups.uc.js` **and** the `tab-groups` folder into your profile's `chrome/JS/` folder. Find your profile folder in `about:support` → **Profile Folder**.
 3. In `about:support`, click **Clear startup cache…**, then restart Zen.
 
 ## Using it
