@@ -8,6 +8,18 @@ published as a GitHub release with its notes below (see
 
 ## [Unreleased]
 
+### Added
+
+- Each section can set its own **Group from**: how many of its tabs must
+  be open before they're grouped, say 3 for YouTube while the others use
+  the default. It's on the settings page, under the section's websites,
+  and kept in backups.
+
+### Changed
+
+- **Group from** goes up to 10 tabs (was 5), on the settings page as a
+  dropdown.
+
 ## [1.3.0] - 2026-10-17
 
 Checked against Zen 1.23.3b.
