@@ -8,6 +8,8 @@ published as a GitHub release with its notes below (see
 
 ## [Unreleased]
 
+## [1.4.0] - 2026-10-17
+
 ### Added
 
 - Each section can set its own **Group from**: how many of its tabs must
