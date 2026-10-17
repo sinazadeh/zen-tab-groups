@@ -8,6 +8,10 @@ published as a GitHub release with its notes below (see
 
 ## [Unreleased]
 
+## [1.3.0] - 2026-10-17
+
+Checked against Zen 1.23.3b.
+
 ### Added
 
 - More ways to style sections
